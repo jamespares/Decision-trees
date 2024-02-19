@@ -21,10 +21,10 @@ Development set accuracy is used to select the optimal max_depth and avoid overf
 
 **Evaluation:**
 
-The final model (with selected max_depth) is evaluated on the held-out test set.
+The final model (with selected max_depth of 3) is evaluated on the held-out test set.
 
 **Key Findings:**
 
-Optimal max_depth: [Insert the optimal max_depth value based on your results]
+Optimal max_depth: 3
 Final test accuracy:  0.7988826815642458
 
