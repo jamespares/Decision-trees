@@ -26,5 +26,5 @@ The final model (with selected max_depth) is evaluated on the held-out test set.
 **Key Findings:**
 
 Optimal max_depth: [Insert the optimal max_depth value based on your results]
-Final test accuracy: [Insert the final test accuracy achieved]
+Final test accuracy:  0.7988826815642458
 
