@@ -1,4 +1,4 @@
-Titanic Survival Prediction with Decision Trees
+**Titanic Survival Prediction with Decision Trees**
 
 This project utilizes a decision tree classifier to predict passenger survival on the Titanic based on selected features.
 
